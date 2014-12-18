@@ -10,5 +10,5 @@ This is the master planning repo to keep all high level items.
 * [Server](common-server.md)
 
 **Other**
-*[Docs](https://drive.google.com/folderview?id=0B0XA6sm-uhX6ck9GSGxQeGJtTE0&usp=sharing_eid)
+* [Docs](https://drive.google.com/folderview?id=0B0XA6sm-uhX6ck9GSGxQeGJtTE0&usp=sharing_eid)
 
