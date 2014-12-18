@@ -3,8 +3,8 @@ Common URL Model
 
 There are only two parent orgs currently.
 
-* {parentorg} = [reclaimhosting.com](reclaimhosting.com)
-* {parentorg} = [stack.network](stack.network)
+* {parentorg} = [reclaimhosting.com](http://reclaimhosting.com)
+* {parentorg} = [stack.network](http://stack.network)
 
 **Reclaim Core**
 * org.{parentorg}
