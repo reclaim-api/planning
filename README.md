@@ -8,7 +8,7 @@ This is the master planning repo to keep all high level items.
 * [Interface](common-interface.md)
 * [Data](common-data.md)
 * [Server](common-server.md)
-* [Apps}(apps.md)
+* [Apps](apps.md)
 
 **Other**
 * [Docs](https://drive.google.com/folderview?id=0B0XA6sm-uhX6ck9GSGxQeGJtTE0&usp=sharing_eid)
