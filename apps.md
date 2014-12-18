@@ -3,12 +3,13 @@ Apps
 
 **Core**
 
-* Org
-* User
-* Domain
-* App
-* Instance
-* Server
+* [Org](https://github.com/reclaim-api/app-org)
+* [User](https://github.com/reclaim-api/app-user)
+* [Domain](https://github.com/reclaim-api/app-domain)
+* [App](https://github.com/reclaim-api/app-app)
+* [Instance](https://github.com/reclaim-api/app-instance)
+* [Server](https://github.com/reclaim-api/app-server)
+* [Brainstorm](https://github.com/reclaim-api/app-brainstorm)
 
 **Application**
 
